@@ -1,0 +1,5 @@
+package com.msf.entity;
+
+public enum Status {
+    PENDING, IN_REVIEW, PENDING_THIRD_PARTY, RESOLVED, CLOSED, REVOKED, AWAITING_CUSTOMER_INPUT
+}
